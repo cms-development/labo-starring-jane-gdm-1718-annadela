@@ -23,7 +23,7 @@ https://www.ketnet.be/Karrewiet/1-november-2018-allerheiligen
 Deze link toont het perfecte voorbeeld van wat Starring Jane gemaakt heeft.  In dit projecten was het idee om kinderen hun verlies van een opa, mama of zelfs huisdier te kunnen verwerken. Zo hebben ze een boom gemaakt wat het tegenovergestelde is van gestorven. Een levende boom waar je blaadjes kan aan hangen. In elk blaadje kan je een herinnering plaatsen.
 https://mijnherinneringaanjou.be/#/ 
 
-![Home page](home.PNG)
+![Home page](images/home.PNG)
 
 
 ## Hoe is het project aangepakt?
@@ -49,7 +49,7 @@ Daarna zal er concept workshops zijn. Zo komen er dingen zoals niet direct begin
 
 ## Voorbeelden in het project.
 Wat nodig voor de ballon te laten vliegen?
-![balloon](baloon.PNG)
+![balloon](images/baloon.PNG)
 
 -	Playground
 -	User input
